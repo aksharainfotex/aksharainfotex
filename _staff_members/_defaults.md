@@ -1,8 +1,6 @@
 ---
-Position:
-Salary:
-Location
-Contract type:
-Hours:
-image_path:
+# name:
+# position:
+# image_path:
+# twitter:
 ---
