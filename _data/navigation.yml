@@ -1,8 +1,8 @@
 links:
-- name: Portfolio
-  link: /portfolio/
-- name: Blog
-  link: /blog/
+- name: Services
+  link: /services/
+- name: Careers
+  link: /careers/
 - name: About
   link: /about/
 - name: Contact
