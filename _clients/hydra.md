@@ -1,7 +1,7 @@
 ---
 name: Software Performance Testing
 subtitle: Performance testing is more important now than ever!
-external_url: https://github.com/CloudCannon/hydra-jekyll-template
+# external_url: https://github.com/CloudCannon/hydra-jekyll-template
 image_path: /images/clients/hydra.png
 ---
 
