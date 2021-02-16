@@ -1,81 +1,44 @@
 ---
-name: Hydra Template
-subtitle: Product marketing template for Jekyll
+name: Software Performance Testing
+subtitle: Performance testing is more important now than ever!
 external_url: https://github.com/CloudCannon/hydra-jekyll-template
 image_path: /images/clients/hydra.png
 ---
 
-Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
-Increase the web presence of your brand with this configurable theme.
+It may be hard to believe, but users of mobile and web apps can detect differences in response times of 250 milliseconds or less. Some studies show that 47% of web or mobile app users expect a page to load in less than 2 seconds. If the load time takes more than 3 seconds, a significant percentage of them are GONE!
 
-Hydra was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
+When done properly, performance testing supplements standard functional testing to ensure a great user experience under complex, challenging, and dynamic conditions. The secret sauce is determining what variables, parameters, and scenarios to test and more importantly what data to collect and analyze from the production environment.
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+## Performance Software Testing – How to Start? 
 
-## Features
+It can be a real challenge to kick start a Performance Testing program, and then maintain it moving forward. The term endurance testing is truly apropos in this case. Knowing “why you want to do performance testing” is easy, but determining “what user scenarios you’d like to test” or “what your user distribution is” can present real hurdles to overcome. Software performance testing must be done in a process-oriented way within a solid testing environment to effectively achieve your objectives.
 
-* Contact form
-* Pre-built pages
-* Pre-styled components
-* Blog with pagination
-* Post category pages
-* Disqus comments for posts
-* Staff and author system
-* Configurable footer
-* Optimised for editing in [CloudCannon](https://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+A successful performance QA testing program begins with a firm baseline of understanding. The resources below can be a good start for those in the early stages of research:
 
-## Setup
+* **Software Performance Test Plan** – Before performance testing can be performed effectively, a detailed plan helps to specify how the testing will be executed from a business and technical perspective depending on the resources available (time, and labor/expertise) and the application being deployed. This is your idle starting point which can be used to jump-start your software performance and endurance testing efforts.
 
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics and Disqus keys to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+* **Best Practices for Software Performance Testing** – Testing software performance is a critical activity in software development projects especially for web-based software applications. As features build up from iteration to iteration and databases continue to grow, access times can expand geometrically.
 
-## Develop
+    Through aksharainfotex’s years of experience in testing software performance in many different testing environments, we’ve developed a set of best practices which can be adapted to your organization’s unique production environment. We help you find answers to the following questions:
 
-Hydra was built with [Jekyll](https://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+    * Why is software performance testing more important for SaaS and cloud applications?
+    * What are the reasons behind failed performance testing and how to avoid them?
+    * How can you get your performance testing on the right track?
 
-Install the dependencies with [Bundler](https://bundler.io/):
+* **Software Performance Testing Optimization** – **Choosing User Scenarios** – 
+    You’ve decided to embark on testing your software’s performance but now you’re thinking, what   scenarios should I test? You could do some research and insert code into your software in order to collect user metrics and paths. However, you don’t want to wait for that and you want to get it done now. Through our years of experience in testing software performance in many different environments, we’ve developed some simple heuristics on how to choose performance testing scenarios using Pareto’s principle (the 80-20 rule) to get the most bang for the buck fast based on your organization’s particular situation.
 
-~~~bash
-$ bundle install
-~~~
+    * Quickly assess which user scenarios should be tested first.
+    * Apply different criteria to focus your efforts depending on how much time and resources you have
+    * Get results fast so that you can act on to improve your software’s performance.
 
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
+* **Performance Software Testing Tools**
 
-~~~bash
-$ bundle exec jekyll serve
-~~~
+    **Apache JMeter**: aksharainfotex’s Preferred Tool for Structured Performance Testing
 
-## Editing
+    Over the years, we have learned a thing or two about performance testing software and developed deep knowledge in using open source tools such as JMeter as well as commonly used commercial tools such as HP’s ALM (previously known as LoadRunner). However, recently we decided to standardize on JMeter testing because it is highly regarded, widely accepted, and supports all the functions required for structured performance testing. It has been around for almost 20 years, possesses a very active development community, and as it is written in Java, it is considered cross-platform. While JMeter by itself possesses useful functions, a large number of plugins are available to greatly extend the range and capabilities of JMeter, from test function to output reports. Additionally, JMeter can test against a variety of interfaces, including HTTP, REST APIs, and others.
 
-Hydra is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
+    There are many benefits offered by open source software besides a low price. Because there are many developers constantly refining open source software, issues with security and quality can surface quickly and be addressed quickly. Open source applications can also be tailored in flexible ways as required by the business, another benefit not easily enjoyed by those using proprietary solutions.
 
-### Posts
 
-* Add, update or remove a post in the *Posts* collection.
-* The **Staff Author** field links to members in the **Staff** collection.
-* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
-
-### Contact Form
-
-* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
-* Sends email to the address listed in company details.
-
-### Staff
-
-* Reused around the site to save multiple editing locations.
-* Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
-
-### Navigation
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Navigation* section.
-
-### Footer
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Footer* section.
+Take advantage of **Aksharainfotex’s** proven expertise in Software Performance Testing Services and contact us today to find out how we can find your performance bottlenecks before your customers do.

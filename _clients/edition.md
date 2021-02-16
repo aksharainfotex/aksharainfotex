@@ -1,69 +1,32 @@
 ---
-name: Edition Template
-subtitle: Product documentation template for Jekyll
-external_url: https://github.com/CloudCannon/edition-jekyll-template
+name: Automated-Testing-Services
+subtitle: In what cases are Automated Testing services considered to be suitable?
+# external_url: https://github.com/CloudCannon/edition-jekyll-template
 image_path: /images/clients/edition.png
 ---
 
-Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
-Start documenting your product, application, service or website with this configurable theme.
+The Reality is that Automation is more utilized during large projects rather than during small ones. Tests can be automated if the system is stable and the requirements to tested areas are not often changed.
 
-Edition was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
+**PROPER TEST AUTOMATED TESTING SERVICES CONSIST OF:**
+* Elaboration of the requirements;
+* Creating the test strategy and plan;
+* Writing the code;
+* Verifying the scripts.
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+One shouldn’t also forget about maintenance of the tests. Automated tests should be easily maintained. If their maintenance is time and labor consuming, the tests may turn to be lossmaking.
 
-## Features
+Automated tests are software products. So, one must refer to the process of automating tests as to any other software development process.
 
-* Two column layout
-* Full text search
-* Pre-styled components
-* Auto-generated navigation based on category
-* Optimised for editing in [CloudCannon](https://cloudcannon.com/)
-* Change log
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+It is recommended to automate only the tests that will run many times in course of the project; if tests are to be performed only once, it is unprofitable to automate them.
 
-## Setup
+## WHY AKSHARAINFOTEX?
 
-1. Add your site and author details in `_config.yml`.
-2. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+* **SOLID EXPERIENCE IN QA OUTSOURCING** : Aksharainfotex software testing company successfully performs automated testing services for almost 5 years; average experience of our automated test engineers is 3 – 5 years.
+* **QUICK RESULTS** : Our senior, middle and junior test engineers are trained to quickly discover serious functional defects, they know common weaknesses and potential  problem areas in functionality of different software products.
+* **AUTOMATION OF REPEATABLE TESTS** : Specialists of our software testing company usually perform functional testing services manually, but our specialists in automation are always ready to automate repeatable tests, for regression testing, for example.
 
-## Develop
+## DECEPTIONS ABOUT AUTOMATED TESTING:
 
-Edition was built with [Jekyll](https://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
-
-Install the dependencies with [Bundler](https://bundler.io/):
-
-~~~bash
-$ bundle install
-~~~
-
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
-
-~~~bash
-$ bundle exec jekyll serve
-~~~
-
-## Editing
-
-Edition is already optimised for adding, updating and removing documentation pages in CloudCannon.
-
-### Documentation pages
-
-* Add, update or remove a documentation page in the *Documentation* collection.
-* Change the category of a documentation page to move it to another section in the navigation.
-* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
-
-### Change log
-
-* Add, update or remove change log entries from your posts.
-* Tag entries as minor or major in the front matter.
-
-### Search
-
-* Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
-
-### Navigation
-
-* Change `site.show_full_navigation` to control all or only the current navigation group being open.
+* **AUTOMATED TESTING CAN SUBSTITUTE MANUAL TESTING** : EUnfortunately, many people do not understand the real aim of any test automation. It is to facilitate and make more effective manual work of test engineers, give them an opportunity to focus more on problem areas.
+* **ANY TESTS CAN BE AUTOMATED** : Tests as any other manual process can be automated. But automation is meaningless if the tests are executed only once. The process of their automation may require more time and efforts than their manual execution.
+* **AUTOMATED TESTING SERVICE INCREASES EXPENSES** : Automation requires considerable investment, because it is another software development process. But if it is properly planned and performed, the expenses will return in the ultimate result due to saving time and efforts.
