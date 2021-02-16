@@ -2,7 +2,7 @@
 name: Functional Testing
 subtitle: Does your software do what it’s supposed to do?
 # external_url: https://github.com/CloudCannon/cause-jekyll-template
-image_path: /images/clients/cause.jpg
+image_path: /images/jobs/cause.jpg
 ---
 
 **WHY IS FUNCTIONAL TESTING NECESSARY?**

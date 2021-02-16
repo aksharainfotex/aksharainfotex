@@ -2,7 +2,7 @@
 name: Software Performance Testing
 subtitle: Performance testing is more important now than ever!
 # external_url: https://github.com/CloudCannon/hydra-jekyll-template
-image_path: /images/clients/hydra.png
+image_path: /images/jobs/hydra.png
 ---
 
 It may be hard to believe, but users of mobile and web apps can detect differences in response times of 250 milliseconds or less. Some studies show that 47% of web or mobile app users expect a page to load in less than 2 seconds. If the load time takes more than 3 seconds, a significant percentage of them are GONE!

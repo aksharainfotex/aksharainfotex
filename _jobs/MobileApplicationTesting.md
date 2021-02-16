@@ -2,7 +2,7 @@
 name: Mobile Application Testing
 subtitle: We understand what it takes to build an ideal mobile app.
 # external_url: https://github.com/CloudCannon/frisco-jekyll-template
-image_path: /images/clients/frisco.jpg
+image_path: /images/jobs/frisco.jpg
 ---
 
 We avail the best mobile services tailored to you. Our team works dedicatedly to bring out the comprehended solutions which befit your requirement.
