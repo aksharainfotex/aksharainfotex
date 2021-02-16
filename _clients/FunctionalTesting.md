@@ -10,7 +10,6 @@ image_path: /images/clients/cause.jpg
 Functional Testing services are aimed to verify whether the softwate product complies with the functional requirements. indicated in its specification.
 
 
-
 ## Application Functionality must be verified in scope of:
 
 * **MODULE TESTING** : At this stage we check in the context of our software testing services whether functions of the separate modules operate properly.

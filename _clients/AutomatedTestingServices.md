@@ -1,5 +1,5 @@
 ---
-name: Automated-Testing-Services
+name: Automated Testing Services
 subtitle: In what cases are Automated Testing services considered to be suitable?
 # external_url: https://github.com/CloudCannon/edition-jekyll-template
 image_path: /images/clients/edition.png

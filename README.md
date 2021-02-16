@@ -20,7 +20,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 * Staff and author system
 * Configurable footer
 * Optimised for editing in [CloudCannon](https://cloudcannon.com/)
-* RSS/Atom feed
+<!-- * RSS/Atom feed -->
 * SEO tags
 * Google Analytics
 
