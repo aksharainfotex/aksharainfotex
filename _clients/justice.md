@@ -1,4 +1,4 @@
----
+<!-- ---
 name: Justice Template
 subtitle: Law firm themed business template for Jekyll
 external_url: https://github.com/CloudCannon/justice-jekyll-template
@@ -78,4 +78,4 @@ Justice is already optimised for adding, updating and removing pages, staff, adv
 ### Company details
 
 * Reused around the site to save multiple editing locations.
-* Set in the *Data* / *Company* section.
+* Set in the *Data* / *Company* section. -->

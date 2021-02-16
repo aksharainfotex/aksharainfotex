@@ -1,4 +1,4 @@
----
+<!-- ---
 name: Malt Template
 subtitle: Event marketing template for Jekyll
 external_url: https://github.com/CloudCannon/malt-jekyll-template
@@ -71,4 +71,4 @@ This site uses the [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) pl
 
 ## Image gallery / Featured
 
-The image gallery is populated by a front matter array in `index.html`. To add items just copy the existing structure.
+The image gallery is populated by a front matter array in `index.html`. To add items just copy the existing structure. -->
