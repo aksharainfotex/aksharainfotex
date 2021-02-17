@@ -1,32 +1,69 @@
 ---
-name: TestLead NonFunctional
-subtitle: In what cases are Automated Testing services considered to be suitable?
+name: Test Lead(Non functional)
+subtitle: Permanent
 # external_url: https://github.com/CloudCannon/edition-jekyll-template
-image_path: /images/jobs/edition.png
+image_path: /images/jobs/2edition.png
 ---
 
-The Reality is that Automation is more utilized during large projects rather than during small ones. Tests can be automated if the system is stable and the requirements to tested areas are not often changed.
+**Job title** : Test Lead -Non functional
 
-**PROPER TEST AUTOMATED TESTING SERVICES CONSIST OF:**
-* Elaboration of the requirements;
-* Creating the test strategy and plan;
-* Writing the code;
-* Verifying the scripts.
+**Salary** : £43000 - £46000
 
-One shouldn’t also forget about maintenance of the tests. Automated tests should be easily maintained. If their maintenance is time and labor consuming, the tests may turn to be lossmaking.
+**Closing Date** : 11 Mar 2021
 
-Automated tests are software products. So, one must refer to the process of automating tests as to any other software development process.
+**Work location**: Nottingham
 
-It is recommended to automate only the tests that will run many times in course of the project; if tests are to be performed only once, it is unprofitable to automate them.
 
-## WHY AKSHARAINFOTEX?
 
-* **SOLID EXPERIENCE IN QA OUTSOURCING** : Aksharainfotex software testing company successfully performs automated testing services for almost 5 years; average experience of our automated test engineers is 3 – 5 years.
-* **QUICK RESULTS** : Our senior, middle and junior test engineers are trained to quickly discover serious functional defects, they know common weaknesses and potential  problem areas in functionality of different software products.
-* **AUTOMATION OF REPEATABLE TESTS** : Specialists of our software testing company usually perform functional testing services manually, but our specialists in automation are always ready to automate repeatable tests, for regression testing, for example.
+AKSHARA INFOTEX LTD looking for an IT technical lead
 
-## DECEPTIONS ABOUT AUTOMATED TESTING:
+with experience in non-functional testing .
 
-* **AUTOMATED TESTING CAN SUBSTITUTE MANUAL TESTING** : EUnfortunately, many people do not understand the real aim of any test automation. It is to facilitate and make more effective manual work of test engineers, give them an opportunity to focus more on problem areas.
-* **ANY TESTS CAN BE AUTOMATED** : Tests as any other manual process can be automated. But automation is meaningless if the tests are executed only once. The process of their automation may require more time and efforts than their manual execution.
-* **AUTOMATED TESTING SERVICE INCREASES EXPENSES** : Automation requires considerable investment, because it is another software development process. But if it is properly planned and performed, the expenses will return in the ultimate result due to saving time and efforts.
+
+**Responsibilities**
+
+* Work with development teams to ensure applications are tested to the defined level of acceptance
+
+* Create performance test scripts for online flows using performance test tools
+
+* Design and implement automated tests for algorithmic trading applications that satisfy all functional and control requirements
+
+* Collaborate with the appropriate team for test requirements related to back-end, daemons, mobile backend
+
+* Perform Mobile test task estimation, test execution, Regression testing, Functional System testing
+
+* Identifies, analyzes, and documents defects, questionable functions, errors, and inconsistencies in embedded software program functions, outputs, online screens, and content.
+
+* Execute performance tests, to determine the application scalability and conformance to NFRs
+
+* Work with Project Lead to identify the quality implications of known bugs and the impact of proposed changes to product definition on the testing process.
+* Supporting Project Leaders with system test strategy
+* Participation in software lifecycle process assessments
+* Independent Quality Manager to software project teams, supporting product release process, managing software quality gate process
+* Develop and execute test plans and test cases with a strong emphasis on using code to solve technical challenges and shorten the test cycle through automation
+* Estimate test efforts, analyse and communicate test results and participate in day to day QA activities
+* Add to our client’s functional and scalability testing efforts, create test frameworks, tools and technologies to be used by the business
+* Work with Development, Test and Product Management to design and implement test and validation strategies
+* Execute and manage test cases and results; report on test and defect metrics
+
+**Required Education**
+• Bachelor’s degree in related field or good experience in related field.
+
+**Skills**:
+* Strong QA testing experience of iOS and Android applications
+* Strong troubleshooting skills, and experience working closely with multiple teams
+* Extensive experience in mobile manual testing on both iOS and Android
+* Experience with mobile networks, protocols, and devices; Wi-Fi and 3G/4G testing experience
+* Experience building and designing test cases, Strong analytical & problem solving, documentation, and communication skills
+* Experience in Performance testing tools like Loadrunner, Jmeter etc
+* Experience of Continuous Integration systems
+* Exposure to the full software development lifecycle and Agile/Scrum methodology
+* Knowledge in Quality Management tools
+* Able to own quality within an Agile Scrum teams
+* Experience with failure analysis and bug reporting
+* Excellent written and verbal communication skills
+* Experience with Xcode, Android Studio or Charles Proxy
+* Experienced in delivering test automation within complex event driven systems
+
+**Apply with latest CV**: 
+**hr@aksharainfotec.com**

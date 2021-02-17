@@ -1,4 +1,4 @@
----
+<!-- ---
 name: Software Performance Testing
 subtitle: Performance testing is more important now than ever!
 # external_url: https://github.com/CloudCannon/hydra-jekyll-template
@@ -41,4 +41,4 @@ A successful performance QA testing program begins with a firm baseline of under
     There are many benefits offered by open source software besides a low price. Because there are many developers constantly refining open source software, issues with security and quality can surface quickly and be addressed quickly. Open source applications can also be tailored in flexible ways as required by the business, another benefit not easily enjoyed by those using proprietary solutions.
 
 
-Take advantage of **Aksharainfotex’s** proven expertise in Software Performance Testing Services and contact us today to find out how we can find your performance bottlenecks before your customers do.
+Take advantage of **Aksharainfotex’s** proven expertise in Software Performance Testing Services and contact us today to find out how we can find your performance bottlenecks before your customers do. -->

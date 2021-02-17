@@ -6,8 +6,38 @@ address: 3 Kenbrook Road, Hucknull,NG15 8HD,Nottingham, United Kingdom
 zoom: 10
 ---
 
-<!-- 
+
 <section class="diagonal">
+	<div class="container">
+		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
+			<input type="hidden" name="_to" value="support@example.com" />
+			<input type="text" name="_gotcha" style="display: none;" />
+
+			<div class="halves">
+				<div>
+					<label for="name">First Name</label>
+					<input type="text" name="first-name" id="first-name" placeholder="John" />
+				</div>
+
+				<div>
+					<label for="name">Last Name</label>
+					<input type="text" name="last-name" id="last-name" placeholder="Doe" />
+				</div>
+			</div>
+
+			<label for="email">Email Address</label>
+			<input type="email" name="email" id="email" placeholder="john@example.com" required />
+
+			<label for="message">Message</label>
+			<textarea name="message" id="message" placeholder="Hi There..."></textarea>
+
+			<input type="submit" value="Send Message" />
+		</form>
+	</div>
+</section> -->
+
+
+<!-- <section class="diagonal">
 	<div class="container">
 		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
 			<input type="hidden" name="_to" value="support@example.com" />
@@ -38,9 +68,9 @@ zoom: 10
 
  <!-- <section class="diagonal map">
 	<div id="gmap_canvas"></div>
-</section>
+</section> -->
 
-<section class="diagonal">
+<!-- <section class="diagonal">
 	<div class="container halves aligned-top">
 		<div>
 			<h3>Address</h3>
@@ -51,9 +81,9 @@ zoom: 10
 			<p><a href="mailto:{{ site.data.company.contact_email_address }}">{{ site.data.company.contact_email_address }}</a></p>
 		</div>
 	</div>
-</section>
+</section> -->
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
 	window.mapData = {{ page.map | jsonify }};
 
 	function initMap() {
@@ -79,5 +109,5 @@ zoom: 10
 			map.setCenter(myOptions.center);
 		});
 	}
-</script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.google_maps_javascript_api_key }}&amp;callback=initMap"></script>  --> -->
+</script> -->
+<!-- <script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.google_maps_javascript_api_key }}&amp;callback=initMap"></script>  -->

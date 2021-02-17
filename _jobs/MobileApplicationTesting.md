@@ -1,4 +1,4 @@
----
+<!-- ---
 name: Mobile Application Testing
 subtitle: We understand what it takes to build an ideal mobile app.
 # external_url: https://github.com/CloudCannon/frisco-jekyll-template
@@ -39,4 +39,4 @@ We at Aksharainfotex's believes in offering exceptional Mobile Application Testi
    * Bug list in excel format/ Bug tool
    * Define Severity and Priority. (Severity of a bug is given according to the impact of that bug on product & Priority of a bug is like how soon the   bug should be fixed)
    * Description of bugs and steps to reproduce them Screenshots/videos referred to bugs
-   * Sample Report
+   * Sample Report -->
