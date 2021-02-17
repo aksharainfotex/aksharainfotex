@@ -1,5 +1,5 @@
 ---
-name: Test Lead(Non Functional)
+name: Test Lead (Non Functional)
 subtitle: Permanent
 # external_url: https://github.com/CloudCannon/edition-jekyll-template
 image_path: /images/jobs/2edition.png
