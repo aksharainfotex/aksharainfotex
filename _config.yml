@@ -1,12 +1,12 @@
-title: Urban Template
-url: "https://teal-worm.cloudvent.net"
+# title: Urban Template
+# url: "https://teal-worm.cloudvent.net"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+# description: Jekyll template with example content for a web agency.
 
 # Author details for the jekyll-seo-tag gem
 author:
@@ -15,10 +15,10 @@ author:
   twitter: # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
-social:
-  name: Urban Template
-  links:
-    - https://github.com/CloudCannon/urban-jekyll-template
+# social:
+#   name: Urban Template
+#   links:
+#     - https://github.com/CloudCannon/urban-jekyll-template
 
 timezone: Etc/UTC
 
