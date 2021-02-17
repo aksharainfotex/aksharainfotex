@@ -1,0 +1,25 @@
+---
+title: Careers
+heading: Work for us
+subtitle: Join and work with us.
+---
+<section class="diagonal patterned">
+	<div class="container">
+	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_jobs/" class="btn"><strong>&#9998;</strong> Manage Clients</a></p>
+		<ul class="image-grid">
+			{% for job in site.jobs %}
+				<li>
+					<a href="{{ site.baseurl }}{{ job.url }}">
+						<img src="{% include relative-src.html src=job.image_path %}" alt="{{ person.name }}">
+						<div class="details">
+							<div class="name">{{ job.name }}</div>
+							<div class="position">{{ job.subtitle }}</div>
+						</div>
+					</a>
+				</li>
+			{% endfor %}
+			<li class="filler"></li>
+			<li class="filler"></li>
+		</ul>
+	</div>
+</section>

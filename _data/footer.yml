@@ -4,8 +4,8 @@
       link: /
     - name: Services
       link: /services/
-    # - name: Blog
-    #   link: /blog/
+    - name: Careers
+      link: /careers/
     - name: About
       link: /about/
     - name: Contact

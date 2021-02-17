@@ -1,8 +1,8 @@
 ---
-name: Automated Testing Services
+name: TestLead NonFunctional
 subtitle: In what cases are Automated Testing services considered to be suitable?
 # external_url: https://github.com/CloudCannon/edition-jekyll-template
-image_path: /images/clients/edition.png
+image_path: /images/jobs/edition.png
 ---
 
 The Reality is that Automation is more utilized during large projects rather than during small ones. Tests can be automated if the system is stable and the requirements to tested areas are not often changed.
