@@ -15,9 +15,7 @@ image_path: /images/jobs/2edition.png
 
 
 
-AKSHARA INFOTEX LTD looking for an IT technical lead
-
-with experience in non-functional testing .
+AKSHARA INFOTEX LTD looking for an IT technical lead with experience in non-functional testing .
 
 
 **Responsibilities**

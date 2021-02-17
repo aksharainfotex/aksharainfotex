@@ -13,7 +13,7 @@ Mobile application stability is quite complex these days because of numerous tec
 
 We at Aksharainfotex's believes in offering exceptional Mobile Application Testing services tailored to your business needs. We have a wide range of mobile application Testing Services to suit different requirements
 
-## Our Variety of Services for Mobile Application Testing Includes :
+## Our Variety of Services for Mobile Application Testing Includes:
 
 * Compatibility Testing 
 * Interruption Testing
@@ -23,7 +23,7 @@ We at Aksharainfotex's believes in offering exceptional Mobile Application Testi
 * Installation
 * Load and Performance Testing
 
-## Mobile Application Testing Receivables & Deliverables :
+## Mobile Application Testing Receivables & Deliverables:
 
 * **Receivables** 
 
