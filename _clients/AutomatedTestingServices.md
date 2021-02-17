@@ -7,7 +7,7 @@ image_path: /images/clients/edition.png
 
 The Reality is that Automation is more utilized during large projects rather than during small ones. Tests can be automated if the system is stable and the requirements to tested areas are not often changed.
 
-**PROPER TEST AUTOMATED TESTING SERVICES CONSIST OF: **
+**PROPER TEST AUTOMATED TESTING SERVICES CONSIST OF:**
 * Elaboration of the requirements.
 * Creating the test strategy and plan.
 * Writing the code.
