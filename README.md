@@ -1,13 +1,13 @@
 # Urban
-
-Web Agency themed business template for Jekyll. Browse through a [live demo](https://teal-worm.cloudvent.net/).
+<!-- 
+Web Agency themed business template for Jekyll. Browse through a [live demo](https://teal-worm.cloudvent.net/). -->
 Increase the web presence of your agency with this configurable theme.
+<!-- 
+![Urban template screenshot](images/_screenshot.png) -->
+<!-- 
+Urban was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll. -->
 
-![Urban template screenshot](images/_screenshot.png)
-
-Urban was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
-
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+<!-- Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/). -->
 
 ## Features
 
